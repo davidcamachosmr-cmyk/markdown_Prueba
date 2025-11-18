@@ -30,4 +30,4 @@ texto
 <!-- jajajajaja -->
 
 
-[Enlace](https://github.com/davidcamachosmr-cmyk/markdown_Prueba/edit/main/README.md)
+[Enlace de prueba](https://github.com/davidcamachosmr-cmyk/markdown_Prueba/edit/main/README.md)
