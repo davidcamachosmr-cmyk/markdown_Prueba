@@ -31,3 +31,7 @@ texto
 
 
 [Enlace de prueba](https://github.com/davidcamachosmr-cmyk/markdown_Prueba/edit/main/README.md)
+
+
+texto largo [1]
+[1](https://github.com/davidcamachosmr-cmyk/markdown_Prueba/edit/main/README.md)
