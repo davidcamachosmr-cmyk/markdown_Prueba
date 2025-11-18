@@ -12,6 +12,13 @@ _texto_
 <del> Borrar </del>
 ```
 
-| a | b | c | d |
-| --- | --- | --- | --- |
+|  a  |  b  |  c  |  d  |
+| --- | ---    | ----- | ----- |
 | hola | hola2 | hola3 | hola4 |
+
+* 1
+* 2
+* 3
+* 4
+* 5
+  * hola
