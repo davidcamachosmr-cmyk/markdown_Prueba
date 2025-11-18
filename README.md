@@ -8,6 +8,10 @@
 _texto_
 
 
-```html
-<del> Borrar</del>
+```HTML
+<del> Borrar </del>
 ```
+
+| a | b | c | d |
+| --- | --- | --- | --- |
+| hola | hola2 | hola3 | hola4 |
